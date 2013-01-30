@@ -1,0 +1,25 @@
+{
+  "name": "webdav",
+  "repo": "matthewp/webdav",
+  "description": "WebDAV component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	"yields/xhr": "*"
+  },
+  "development": {},
+  "scripts": [
+	"dav_client.js",
+	"dav_fs.js",
+	"debug.js",
+    "index.js",
+	"lockinfo_sax_handler.js",
+	"multi_status_sax_handler.js",
+	"resource.js",
+	"root.js",
+	"sax_handler.js",
+	"sax_parser.js"
+	"status_codes.js"
+  ],
+  "license": "GPL2"
+}
